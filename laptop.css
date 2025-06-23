@@ -1,0 +1,74 @@
+.firstnav nav ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+   
+}
+.firstnav nav{
+    background-color: aquamarine;
+    
+}
+.firstnav nav ul li a{
+    text-decoration: none;
+    font-size: 20px;
+}
+.firstnav nav ul li a:hover{
+    background-color: blue;
+    color: white;
+}
+.firstdiv{
+    width: 1000px;
+    height: 80px;
+   display: flex;
+   
+}
+.firstdiv button i:hover{
+    background-color: blue;
+    color: white;
+}
+.firstdiv h3:hover{
+    background-color:blue;
+    color: white;
+}
+.secnav nav ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+   
+}
+.secnav nav{
+    background-color:rgb(228, 223, 223);
+    
+}
+.secnav nav ul li a{
+    text-decoration: none;
+    font-size: 20px;
+}
+.secnav nav ul li a:hover{
+    background-color: blue;
+    color: white;
+}
+.im1:hover{
+color: blue;
+}
+.im2:hover{
+color: blue;
+}
+.im3:hover{
+color: blue;
+}
+.im4:hover{
+color: blue;
+}
+.im5:hover{
+color: blue;
+}
+.im6:hover{
+color: blue;
+}
+.im7:hover{
+color: blue;
+}
+.im8:hover{
+color: blue;
+}

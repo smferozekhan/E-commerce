@@ -1,0 +1,149 @@
+.firstnav nav ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+   
+}
+.firstnav nav{
+    background-color: aquamarine;
+    
+}
+.firstnav nav ul li a{
+    text-decoration: none;
+    font-size: 20px;
+}
+.firstnav nav ul li a:hover{
+    background-color: blue;
+    color: white;
+}
+.firstdiv{
+    width: 1000px;
+    height: 80px;
+   display: flex;
+   
+}
+.firstdiv button i:hover{
+    background-color: blue;
+    color: white;
+}
+.firstdiv h3:hover{
+    background-color:blue;
+    color: white;
+}
+.secnav nav ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+   
+}
+.secnav nav{
+    background-color:rgb(228, 223, 223);
+    
+}
+.secnav nav ul li a{
+    text-decoration: none;
+    font-size: 20px;
+}
+.secnav nav ul li a:hover{
+    background-color: blue;
+    color: white;
+}
+.secdiv{
+    width: 150px;
+    height: 220px;
+    outline: auto;
+}
+.secdiv img{
+    width: 150px;
+    height: 150px;
+    border-color: blue;
+   
+}
+.thirddiv{
+    width: 150px;
+    height: 220px;
+    outline: auto;
+}
+.thirddiv img{
+    width: 150px;
+    height: 150px;
+    border-color: blue;
+   
+}
+.fourthdiv{
+    width: 150px;
+    height: 220px;
+    outline: auto;
+}
+.fourthdiv img{
+    width: 150px;
+    height: 150px;
+    border-color: blue;
+   
+}
+
+.fifthdiv{
+    width: 150px;
+    height: 220px;
+    outline: auto;
+}
+.fifthdiv img{
+    width: 150px;
+    height: 150px;
+    border-color: blue;
+   
+}
+.sixthdiv{
+    width: 150px;
+    height: 220px;
+    outline: auto;
+}
+.sixthdiv img{
+    width: 150px;
+    height: 150px;
+    border-color: blue;
+   
+}
+.seventhdiv{
+    width: 150px;
+    height: 220px;
+    outline: auto;
+}
+.seventhdiv img{
+    width: 150px;
+    height: 150px;
+    border-color: blue;
+   
+}
+.shopbydiv{
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    top: 1450px;
+    width: 1230px;
+    height: 160px;
+    
+}
+.secdiv:hover{
+color: blue;
+}
+.thirddiv:hover{
+color: blue;
+}
+.fourthdiv:hover{
+color: blue;
+}
+.fifthdiv:hover{
+color: blue;
+}
+.sixthdiv:hover{
+color: blue;
+}
+.seventhdiv:hover{
+color: blue;
+}
+.viewdiv button a:hover{
+color: white;
+background-color: blue;
+}
+
